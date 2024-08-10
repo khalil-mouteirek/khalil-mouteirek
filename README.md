@@ -1,17 +1,17 @@
 ![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 
 <h1 align="center">Hi 👋, I'm Khalil</h1>
-<h3 align="center">A passionate stuffstack developer from Lebanon</h3>
+<h3 align="left">Mathematics and Programming Enthusiast from Lebanon</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-- 🔭 I’m currently working on [final project in my bootcamp](https://github.com/khalil-mouteirek/MatchPoint.git)
+- 🔭 I’m currently on a learning-break.
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/khalil-mouteirek](https://github.com/khalil-mouteirek)
 
-- 💬 Ask me about **React, Laravel**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **khalil.mouteirek@gmail.com**
 
